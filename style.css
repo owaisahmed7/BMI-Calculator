@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+ background-color: rgb(179, 252, 255);
+}
+
+
+h1{
+    text-align: center;
+}
+   
+.bmi {
+ background-color: black;
+ position: absolute;
+ border: solid 2px rgb(0, 0, 0);
+ border-radius: 8px;
+ background: rgb(71, 187, 241);
+ top: 35%;
+ left: 35%;
+}
+
+
+#zamaweight {
+ margin: 10px;
+ width: 350px;
+ height:40px;
+}
+
+
+#zamaheight {
+ margin: 10px;
+ width: 350px;
+ height: 40px;
+}
+
+
+label {
+ font-size: 30px;
+}
+
+
+#button {
+ margin: 20px;
+ width: 150px;
+ height: 40px;
+ background-color: rgb(0, 0, 0);
+ font-size : 30px;
+ cursor: pointer;
+ color: aliceblue;
+}
